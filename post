@@ -1,0 +1,3 @@
+POST https://graph.facebook.com/546349135390552/feed
+  ?message=Hello Fans!
+  &access_token=your-access-token
